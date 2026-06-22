@@ -2,7 +2,7 @@
 In here you'll find everything but the actual data that was calibrated, so everything you need for the process but without the result. 
 I'll outline what each file does for you so it'll be easy to navigate.
 
-sdghdghjghjsd contains the report for the project and should hopefully explain some choices. 
+[FYS2810_project/FYS2810_project-3.pdf](FYS2810_project/FYS2810_project-3.pdf) contains the report for the project and should hopefully explain some choices. The .tex files to compile the report are all there as well. 
 
 The [dataprocessing flow](FYS2810-flowchart-1.pdf) shows the flow of program usage.
 
