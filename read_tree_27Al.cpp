@@ -327,7 +327,7 @@ void read_tree_27Al(){ // must have the same name as the file
                 }
 
                 //if(labr_time[j]>55. && labr_time[j]<65.){ // Decrement random events 
-                if(cut_banana->IsInside(eDet_energy[i],deDet_energy) && labr_time[j]>330. && labr_time[j]<390.){ // Generate matrix for background (random) events   
+                if(cut_banana->IsInside(eDet_energy[i],deDet_energy) && labr_time[j]>330. && labr_time[j]<380.){ // Generate matrix for background (random) events   
                     h_Ex_Eg_bg->Fill(labr_energy[j],excitation_energy);
                     // std::cout << "if 4 filled" << std::endl;
                 }
