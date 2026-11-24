@@ -1,5 +1,7 @@
-// In a file called proj.C
-// Usage: proj() to draw all detectors overlaid
+// Usage: 
+//        with root file attached -> x. proj.C
+
+//        proj() to draw all detectors overlaid
 //        proj(5) to draw just detector 5
 //        proj("5,20,23") to draw detectors 5, 20, and 23 overlaid
 //        proj("", "5,20,23") to draw all detectors EXCEPT 5, 20, and 23
